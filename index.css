@@ -1,5 +1,6 @@
 body {
-    background-color: blueviolet;
+    font-family: cursive;
+    background-color: rgb(67, 34, 117);
     font-family: Arial, sans-serif;
     text-align: center;
   }
@@ -18,7 +19,7 @@ body {
     margin-top: 20px;
   }
   .tarea-card {
-    background: #f4f4f4;
+    background: #9776ad;
     padding: 15px;
     border-radius: 5px;
     width: 200px;
@@ -31,9 +32,13 @@ body {
     top: 5px;
     right: 5px;
     background: red;
-    color: white;
+    color: rgb(239, 238, 238);
     border: none;
     padding: 5px;
     cursor: pointer;
     border-radius: 3px;
+  }
+  h1{
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
   }
